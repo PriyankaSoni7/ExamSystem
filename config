@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/PriyankaSoni7/OnlineExamination/online_exam.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
